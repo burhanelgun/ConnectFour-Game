@@ -1,0 +1,4 @@
+#Fri Feb 23 20:31:23 EET 2018
+base.0=/home/burhan/AndroidStudioProjects/CoonectFour/app/build/intermediates/transforms/dexMerger/debug/48
+path.0=classes.dex
+renamed.0=classes.dex
